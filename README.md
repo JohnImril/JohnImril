@@ -7,4 +7,3 @@ My name is Nikita. I'm Frontend Developer. With over three years of experience i
 - **Markup Languages:** HTML, CSS
 - **Frameworks & Libraries:** React, MobX, Redux, React Native, Sass, Less
 - **Tools:** Webpack, Git, Gulp, Storybook, Rollup
-- **Methodologies:** Agile, OOP, REST
