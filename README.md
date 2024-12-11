@@ -1,9 +1,36 @@
-## Hi there 👋 I'm Nikita
+# Hi there 👋 I'm Nikita
 
-My name is Nikita. I'm Frontend Developer. With over three years of experience in frontend development, I am a highly skilled and dedicated professional specializing in creating advanced web solutions. My expertise spans across various modern technologies and frameworks, including React, TypeScript, MobX, and Webpack. I excel in developing scalable, high-performance applications and have a strong background in integrating complex business logic and optimizing user interfaces. 
+**Frontend Developer** specializing in creating **advanced web solutions**. With over **three years of experience**, I have honed my skills in modern frameworks like **React**, leveraging **TypeScript** for scalable, maintainable code. My background includes integrating complex business logic, optimizing user interfaces, and delivering high-performance applications.
 
-### Technical Skills
-- **Programming Languages:** JavaScript, TypeScript
-- **Markup Languages:** HTML, CSS
-- **Frameworks & Libraries:** React, MobX, Redux, React Native, Sass, Less
-- **Tools:** Webpack, Vite, Git, Gulp, Storybook, Rollup
+I thrive on solving challenging tasks, building efficient UI components, and exploring new technologies.
+
+---
+
+## 🚀 **Technical Skills**
+
+- **Languages:** JavaScript, TypeScript  
+- **Markup:** HTML, CSS (Sass, Less)  
+- **Frameworks & Libraries:** React, MobX, Redux, React Native  
+- **Tools:** Webpack, Vite, Git, Gulp, Storybook, Rollup  
+
+<details>
+<summary>📊 <strong>GitHub Stats</strong></summary>
+
+![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnImril&show_icons=true&theme=outrun)
+
+</details>
+
+<details>
+<summary>📈 <strong>Top Languages</strong></summary>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnImril&layout=compact&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+---
+
+## 💬 **Let's Connect!**
+
+- **Email:** [john.maks595@gmail.com](mailto:john.maks595@gmail.com)  
+- **Telegram:** [@JohnImril](https://t.me/JohnImril)  
+- **LinkedIn:** *Coming soon...*
