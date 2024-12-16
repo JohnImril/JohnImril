@@ -33,4 +33,4 @@ I thrive on solving challenging tasks, building efficient UI components, and exp
 
 - **Email:** [john.maks595@gmail.com](mailto:john.maks595@gmail.com)  
 - **Telegram:** [@JohnImril](https://t.me/JohnImril)  
-- **LinkedIn:** *Coming soon...*
+- **LinkedIn:** [Nikita Maksimov](https://www.linkedin.com/in/john-imril/)
