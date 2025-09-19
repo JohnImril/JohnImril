@@ -4,6 +4,8 @@
 
 I thrive on solving challenging tasks, building efficient UI components, and exploring new technologies.
 
+🌍 Open to collaboration on interesting projects, side initiatives, and open-source contributions.
+
 ---
 
 ## 🚀 **Technical Skills**
