@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Nikita
+# Hi there 👋 I'm Nikita Maksimov
 
 Frontend Developer with over **four years of commercial experience**.  
 I build **high-performance, scalable web applications** using **React**, **TypeScript**, and **Next.js**.
