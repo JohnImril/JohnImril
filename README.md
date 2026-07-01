@@ -29,5 +29,3 @@ I work on complex interfaces, legacy migrations, business-critical UI, dashboard
 - **Testing:** Vitest
 - **Tooling:** Vite, Webpack, Rollup, Git, Storybook
 - **Additional:** React Native, Node.js, Cloudflare Workers
-
-Selected projects are available in the pinned repositories below.
