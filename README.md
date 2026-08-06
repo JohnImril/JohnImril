@@ -25,8 +25,7 @@ I enjoy working on problems where frontend architecture, product logic, performa
 - Improved build time by approximately **32%** during application modernization
 - Reduced JavaScript payload by approximately **25%** through code splitting and dependency optimization
 - Improved application loading from approximately **5s to 2s** in a transport monitoring platform
-- Reduced JavaScript by **74%** in a measured React-to-Svelte migration
-- Improved Lighthouse Performance from **75 to 92** in the same experiment
+- In a measured React-to-Svelte migration, reduced JavaScript by **74%** and improved Lighthouse Performance from **75 to 92**
 
 Commercial metrics are described without exposing confidential implementation details.
 
