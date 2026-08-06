@@ -1,31 +1,42 @@
 # Hi, I'm Nikita Maksimov
 
-Frontend Engineer focused on building complex, scalable, and maintainable web applications.
+Frontend Engineer with 4.5+ years of commercial experience building and modernizing complex web applications with React, Next.js, and TypeScript.
 
-I have 4+ years of commercial experience working with React, TypeScript, and Next.js.  
-My focus is frontend architecture, performance, code quality, and clear UI for complex product logic.
+I focus on frontend architecture, performance, real-time interfaces, and maintainable product code. My experience includes large public platforms, internal systems, monitoring dashboards, maps, WebSocket applications, legacy migrations, and AI-assisted developer tools.
 
-I care about owning features end-to-end: from requirements and technical decisions to implementation, polish, and long-term maintainability.
+I enjoy working on problems where frontend architecture, product logic, performance, and developer experience meet.
 
-I work on complex interfaces, legacy migrations, business-critical UI, dashboards, real-time apps, maps, AI-powered tools, and internal platforms.
+**Open to international remote opportunities.**
 
 ## Engineering Focus
 
-- Frontend architecture and feature decomposition
-- Data-heavy applications with tables, charts, filters, and advanced state
+- Frontend architecture and module boundaries
+- Complex and data-heavy product interfaces
+- React and Next.js application modernization
 - Type-safe development with TypeScript
-- State management and API integration
-- Performance optimization
-- Reusable components and UI consistency
+- Performance and bundle optimization
+- Real-time interfaces with WebSocket
 - Legacy codebase refactoring and migrations
-- Production-oriented code quality
+- Reusable component systems and frontend tooling
+- AI-assisted engineering workflows
+
+## Selected Impact
+
+- Improved build time by approximately **32%** during application modernization
+- Reduced JavaScript payload by approximately **25%** through code splitting and dependency optimization
+- Improved application loading from approximately **5s to 2s** in a transport monitoring platform
+- Reduced JavaScript by **74%** in a measured React-to-Svelte migration
+- Improved Lighthouse Performance from **75 to 92** in the same experiment
+
+Commercial metrics are described without exposing confidential implementation details.
 
 ## Technical Stack
 
-- **Core:** React, Next.js, TypeScript, JavaScript
-- **State, Data & APIs:** Redux Toolkit, RTK Query, MobX, REST APIs, WebSocket
+- **Frontend:** React, Next.js, TypeScript, JavaScript
+- **State & Data:** Redux Toolkit, RTK Query, MobX
+- **APIs & Real-time:** REST, WebSocket
 - **UI:** HTML, CSS, SCSS, CSS Modules, Tailwind CSS, Ant Design
-- **Visualization:** ECharts, Leaflet, Three.js
+- **Visualization:** Leaflet, ECharts, Three.js
 - **Testing:** Vitest
-- **Tooling:** Vite, Webpack, Rollup, Git, Storybook
-- **Additional:** React Native, Node.js, Cloudflare Workers
+- **Tooling:** Vite, Webpack, Rollup, Storybook, Git
+- **Additional:** Node.js, Cloudflare Workers, WebAssembly
