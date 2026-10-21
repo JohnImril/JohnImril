@@ -1,41 +1,18 @@
 # Hi, I'm Nikita Maksimov
 
-Frontend Engineer with 4.5+ years of commercial experience building and modernizing complex web applications with React, Next.js, and TypeScript.
+I build and modernize complex software systems, focusing on architecture, performance, and maintainability.
 
-I focus on frontend architecture, performance, real-time interfaces, and maintainable product code. My experience includes large public platforms, internal systems, monitoring dashboards, maps, WebSocket applications, legacy migrations, and AI-assisted developer tools.
+Since 2022, I've worked on high-traffic platforms, event-driven systems, real-time monitoring, and enterprise applications. My primary expertise is in frontend engineering, with additional commercial experience building Node.js APIs, business logic, and integrations.
 
-I enjoy working on problems where frontend architecture, product logic, performance, and developer experience meet.
+### How I approach engineering
 
-**Open to international remote opportunities.**
+- **Clarity over complexity.** I prefer simple abstractions, clear responsibilities, and code that others can easily understand and maintain.
+- **Evolution over rewrites.** I've modernized shared legacy libraries across multiple applications using regression tests, incremental migrations, and rollback strategies.
+- **Thinking beyond the UI.** I work across frontend and backend boundaries to design reliable business workflows and integrations.
+- **Measurable improvements.** Reduced Time to Interactive from ~5s to ~2s, build time by ~32%, and JavaScript payload by ~25% in commercial projects.
 
-## Engineering Focus
+### Beyond Frontend
 
-- Frontend architecture and module boundaries
-- Complex and data-heavy product interfaces
-- React and Next.js application modernization
-- Type-safe development with TypeScript
-- Performance and bundle optimization
-- Real-time interfaces with WebSocket
-- Legacy codebase refactoring and migrations
-- Reusable component systems and frontend tooling
-- AI-assisted engineering workflows
+I'm expanding into full-stack software engineering, AI-powered systems, and agent-driven development workflows.
 
-## Selected Impact
-
-- Improved build time by approximately **32%** during application modernization
-- Reduced JavaScript payload by approximately **25%** through code splitting and dependency optimization
-- Improved application loading from approximately **5s to 2s** in a transport monitoring platform
-- In a measured React-to-Svelte migration, reduced JavaScript by **74%** and improved Lighthouse Performance from **75 to 92**
-
-Commercial metrics are described without exposing confidential implementation details.
-
-## Technical Stack
-
-- **Frontend:** React, Next.js, TypeScript, JavaScript
-- **State & Data:** Redux Toolkit, RTK Query, MobX
-- **APIs & Real-time:** REST, WebSocket
-- **UI:** HTML, CSS, SCSS, CSS Modules, Tailwind CSS, Ant Design
-- **Visualization:** Leaflet, ECharts, Three.js
-- **Testing:** Vitest
-- **Tooling:** Vite, Webpack, Rollup, Storybook, Git
-- **Additional:** Node.js, Cloudflare Workers, WebAssembly
+Beyond commercial experience integrating AI capabilities into frontend products, I experiment with backend architectures, AI agents, and developer tooling through personal projects.
